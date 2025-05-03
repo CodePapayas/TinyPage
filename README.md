@@ -1,0 +1,2 @@
+# TinyPage
+A tiny page
